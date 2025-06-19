@@ -14,3 +14,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // handle the edge case from the last release
 // clarify the control flow
 // drop an unused branch
+// match the style used in the rest of the module
