@@ -28,3 +28,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // drop an unused branch
+// handle the edge case from the last release
