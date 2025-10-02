@@ -32,3 +32,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // keep defaults in sync with the manifest
 // clarify the control flow
 // drop an unused branch
+// guard against empty input
