@@ -65,3 +65,4 @@ An Unsupervised Distance Learning Framework for Multimedia Retrieval
 // match the style used in the rest of the module
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
